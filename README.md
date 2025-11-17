@@ -84,11 +84,11 @@ usage_114.xlsx
 
 ## 📸 執行成果截圖
 
-<img width="441" height="143" alt="截圖 2025-11-17 晚上7 25 12" src="https://github.com/user-attachments/assets/2114b4b3-12d4-4940-8af2-ef2d58028b3e" />
+![終端機執行畫面](images/terminal.png)
 
-<img width="351" height="198" alt="截圖 2025-11-17 晚上7 20 03" src="https://github.com/user-attachments/assets/3c8f425a-87a9-4042-a395-771ef3ab10a3" />
+![年份輸出的結果資料夾](images/output_year.png)
 
-<img width="393" height="220" alt="截圖 2025-11-17 晚上7 20 31" src="https://github.com/user-attachments/assets/78256621-f74d-4c45-9345-2c64f67740eb" />
+![業者輸出的結果資料夾](images/output_operator.png)
 
 ---
 

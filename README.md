@@ -84,11 +84,11 @@ usage_114.xlsx
 
 ## 📸 執行成果截圖
 
-![終端機執行畫面](images/terminal.png)
+![終端機執行畫面](image/terminal.png)
 
-![年份輸出的結果資料夾](images/output_year.png)
+![年份輸出的結果資料夾](image/output_year.png)
 
-![業者輸出的結果資料夾](images/output_operator.png)
+![業者輸出的結果資料夾](image/output_operator.png)
 
 ---
 

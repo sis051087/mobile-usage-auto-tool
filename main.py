@@ -8,14 +8,12 @@ os.makedirs("output_by_operator", exist_ok=True)
 # 讀取CSV
 df = pd.read_csv("input_data/行動寬頻用戶每月平均數據用量  (1).csv")
 
-
 df.columns = df.columns.str.strip()  # 去除空白
 
-df["year"] = df["年月"].astype(str).str.split("/").str[0]
-df["month"] = df["年月"].astype(str).str.split("/").str[1]
 # 年月拆分
 df["year"] = df["年月"].astype(str).str.split("/").str[0].astype(int)
 df["month"] = df["年月"].astype(str).str.split("/").str[1].astype(int)
+
 # 108～114 年
 df = df[(df["year"] >= 108) & (df["year"] <= 114)]
 

@@ -52,9 +52,15 @@ mobile_usage_auto_tool/
 例如：input_data/行動寬頻用戶每月平均數據用量.csv
 ---
 
-### 2. 安裝套件
-pip install pandas openpyxl
----
+### 2. 安裝必要套件
+```
+pip install -r requirements.txt
+```
+
+requirements.txt 內容：
+```
+pandas
+```
 
 ### 3. 執行程式
 python main.py

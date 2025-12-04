@@ -6,7 +6,7 @@ os.makedirs("output_by_year", exist_ok=True)
 os.makedirs("output_by_operator", exist_ok=True)
 
 # 讀取CSV
-df = pd.read_csv("input_data/行動寬頻用戶每月平均數據用量  (1).csv")
+df = pd.read_csv("input_data/行動寬頻用戶每月平均數據用量.csv")
 
 df.columns = df.columns.str.strip()  # 去除空白
 

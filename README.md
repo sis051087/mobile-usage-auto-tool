@@ -11,34 +11,15 @@
 
 ---
 
- 原始資料來源
+來源:
 
 資料集：行動寬頻用戶每月平均數據用量  
 來源：政府資料開放平台 (data.gov.tw)  
 網址：https://data.gov.tw/dataset/30770
 
 ---
-
-
-## 程式輸出結果
-
-###  依年份輸出（output_by_year/）
-usage_108.xlsx
-
-usage_109.xlsx
-
-…
-
-usage_114.xlsx
-###  依電信業者輸出（output_by_operator/）
-
-中華電信股份有限公司.xlsx
-
-遠傳電信股份有限公司.xlsx
-
-台灣大哥大股份有限公司.xlsx
-
-台灣之星電信股份有限公司.xlsx
+原始資料排列混亂複雜
+![終端機執行畫面](image/intput_data.png)
 
 ---
 

@@ -33,7 +33,14 @@
 
 ![業者輸出的結果資料夾](image/output_operator.png)
 
+依照年份
+
+
 ![依照年份分類](image/year.png)
+
+
+依照業者
+
 
 ![依照業者分類](image/operator.png)
 

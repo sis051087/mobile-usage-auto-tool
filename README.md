@@ -19,9 +19,12 @@
 
 ---
 原始資料排列混亂複雜
-![終端機執行畫面](image/intput_data.png)
+
+
+![原始資料](image/input_data.png)
 
 ---
+經分類與排序後
 
 
 ![終端機執行畫面](image/terminal.png)
@@ -29,6 +32,11 @@
 ![年份輸出的結果資料夾](image/output_year.png)
 
 ![業者輸出的結果資料夾](image/output_operator.png)
+
+![依照年份分類](image/year.png)
+
+![依照業者分類](image/operator.png)
+
 
 ---
 
